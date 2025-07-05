@@ -1,41 +1,33 @@
-<h2 align="center">Olá, eu sou o Haruzx 👋</h2>
+<h2 align="center">Ola, Eu sou o Haruzx 👋</h2>
 
-<p align="center">
-  Bots, automações e APIs inteligentes.<br/>
-  Telegram, Discord, Roblox e web.
-</p>
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Haruzxkk&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=Linguagens%20que%20eu%20uso" height="150" alt="languages graph"  />
+</div>
 
-### 💻 Tecnologias
+###
 
-<p align="center">
-  <strong>Most Used Languages</strong><br/>
-  <img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=white" height="30" alt="Python" /> <b>90%</b><br/>
-  <img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=white" height="30" alt="JavaScript" /> <b>85%</b><br/>
-  <img src="https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=node.js&logoColor=white" height="30" alt="Node.js" /> <b>80%</b><br/>
-  <img src="https://img.shields.io/badge/Lua-181717?style=for-the-badge&logo=lua&logoColor=white" height="30" alt="Lua" /> <b>70%</b><br/>
-  <img src="https://img.shields.io/badge/FastAPI-181717?style=for-the-badge&logo=fastapi&logoColor=white" height="30" alt="FastAPI" /> <b>65%</b>
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" alt="css3 logo"  />
+</div>
 
----
+###
 
-### ⚡ Projetos
-- Bots e automações para Telegram  
-- Sistemas com autenticação por chave  
-- Integrações com APIs e pagamentos  
-- Automatizações para Roblox
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
 
----
+###
 
-### 🌐 Contato
-<p align="center">
-  <a href="https://discord.com/users/SEU_ID" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#7289DA; font-weight:bold; font-size:16px; vertical-align:middle;">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="vertical-align:middle;" />
-    SeuUsuario#1234
-  </a>
-</p>
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/Haruzxkk/Haruzxkk/output/snake.svg" alt="Snake animation" />
 
-<p align="center">🚧 Sempre evoluindo — novidades em breve.</p>
+###
