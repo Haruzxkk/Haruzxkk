@@ -22,7 +22,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Haruzxkk/Haruzxkk/output/snake.svg" alt="Snake animation" />
-
-###
